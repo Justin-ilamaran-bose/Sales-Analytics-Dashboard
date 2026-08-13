@@ -6,7 +6,7 @@ An interactive **Sales Performance Dashboard** created using Microsoft Power BI 
 
 ## 📸 Dashboard Preview
 
-
+![Sales Performance Dashboard](Image.png)
 
 ## 🛠️ Tools Used
 
